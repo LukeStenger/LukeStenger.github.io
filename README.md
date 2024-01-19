@@ -1,6 +1,6 @@
-# Project Name
+# Personal Website
 
-Description of your project.
+The following is Luke Stenger's personal website.
 
 ## Custom Change: Spotify Button
 
