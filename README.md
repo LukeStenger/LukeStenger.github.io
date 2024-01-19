@@ -8,7 +8,7 @@ A custom change has been implemented to enhance the user experience. A Spotify b
 
 ### Spotify Playlist - Luke's Favorites
 
-[![Spotify - Luke's Favorites](https://img.shields.io/badge/Spotify-Luke's%20Favorites-1DB954?logo=spotify&logoColor=white&style=flat-square)](Spotify Playlist Link)
+[![Spotify - Luke's Favorites](https://img.shields.io/badge/Spotify-Luke's%20Favorites-1DB954?logo=spotify&logoColor=white&style=flat-square)](https://open.spotify.com/playlist/0fd7vv4hdV1w9hGyorZJ7w?si=1cb5a726d0294fa6)
 
 **Listen to Luke's curated favorites on Spotify!**
 
