@@ -20,8 +20,8 @@ A custom change has been implemented to enhance the user experience. A Spotify b
 
 ### Credits
 
-- Luke Stenger: [Spotify Profile](https://open.spotify.com/user/your_user_id)
-- Playlist: [Luke's Favorites](Spotify Playlist Link)
+- Luke Stenger: [Spotify Profile](https://open.spotify.com/user/lstenger7?si=57378f6039e84087)
+- Playlist: [Luke's Favorites](https://open.spotify.com/playlist/0fd7vv4hdV1w9hGyorZJ7w?si=1cb5a726d0294fa6)
 
 ### Author
 
